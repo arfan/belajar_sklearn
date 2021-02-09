@@ -5,5 +5,11 @@ https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw Yaitu tentang belajar S
 
 Di github repo ini saya akan coba posting semua jupyter notebook yang saya buat selama belajar.
 
-Regards.
-Arfan
+## Cara Pakai
+
+Pada folder belajar_sklearn jalankan perintah
+```bash
+jupyter notebook
+```
+
+Lalu buka notebook yang diinginkan
